@@ -1,0 +1,10 @@
+.logo {
+  width: 80px;
+}
+.breadcrumb-nav {
+  padding: 0.6rem;
+  margin-bottom: 0.7rem;
+}
+.breadcrumb-nav ol {
+  margin: 0;
+}
